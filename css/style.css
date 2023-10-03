@@ -77,10 +77,11 @@ body {
 }
 
 /* header secttion */
-/* .logo{
-    height: 40px;
-    width: 40px;
-} */
+.logo{
+    height: auto;
+    width: 100px;
+
+}
 #header{
     display: flex;
     align-items: center;
